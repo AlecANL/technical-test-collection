@@ -5,6 +5,9 @@
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/technical-test-jr-trainee/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/technical-test-jr-trainee/playwright-report" />
+      <excludeFolder url="file://$MODULE_DIR$/technical-test-jr-trainee/test-results" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
