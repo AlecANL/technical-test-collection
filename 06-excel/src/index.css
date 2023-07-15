@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.static-cell {
+    outline: 1px solid #e1e1e1;
+}
