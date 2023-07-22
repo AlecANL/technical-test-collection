@@ -1,0 +1,20 @@
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+textarea {
+  min-height: 224px !important;
+  background: #e2e2e2;
+  resize: none;
+}
+
+.result textarea {
+  background: #f5f5f5;
+}
